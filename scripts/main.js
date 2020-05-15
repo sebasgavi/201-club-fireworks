@@ -6,11 +6,11 @@ document.body.appendChild(app.view);
 
 const messages = [
   'Inifinite void',
-  'Al fin se acabo el semestre',
+  'Al fin se acabó el semestre',
   'One more time, but with feeling.',
   'fix bug, for realz',
   'Just stop reading these for a while, ok..',
-  'Gaviria sí nos quiere :(',
+  'Gaviria no nos quiere :(',
   'Graciasssss',
   'Quiero ver web el prox semestre :0',
 ];
